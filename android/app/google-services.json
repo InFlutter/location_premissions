@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920186705415",
+    "project_id": "location-premissons",
+    "storage_bucket": "location-premissons.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920186705415:android:0f13b47e4c560c429e7ca2",
+        "android_client_info": {
+          "package_name": "com.example.lesson64"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk7YtPbYvu51aoSiH4k6QKSMiXTx86oIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
